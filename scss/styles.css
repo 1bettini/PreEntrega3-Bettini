@@ -414,9 +414,11 @@ div#slider figure {
   background-color: none;
 }
 
+
 .card-text {
   background-color: transparent;
   color: black;
+  text-align: center;
 }
 
 .textoCorto p {

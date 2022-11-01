@@ -535,6 +535,10 @@ body {
   color: #5d5d5d;
 }
 
+h1 {
+  margin-top: 70px;
+}
+
 .landing-page .info p {
   margin: 0;
   line-height: 1.6;
